@@ -1,7 +1,8 @@
 Test_Program
 ============
 
-%%%%%%%    Testing out the site    %%%%%%%%%
+%%%%%%%    Testing out the site    %%%%%%%%%       
+
 function [output_1 ] = Equation_test( medium,solution)
 %UNTITLED Summary of this function goes here
 %   Detailed explanation goes here
