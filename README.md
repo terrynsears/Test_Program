@@ -27,7 +27,7 @@ function [output_1 ] = Equation_test( medium,solution)
       
       
       
-  %%%%%%%%%       Actual Calculations     %%%%%%%%%%%%%%%%%%
+  %%%%%%%%%       Actual Calculations   
   else
       output_1=zeros(1,8);
       output_1(1,2)=solution;
