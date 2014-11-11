@@ -40,3 +40,5 @@ function [output_1 ] = Equation_test( medium,solution)
       fprintf('\nThe answer is %f \n',output_1);
   end
 end
+
+Just testing to see if I can change this - Terryn
